@@ -2,6 +2,7 @@
     "E-Mail Address": "Correo electrónico",
     "Password": "Contraseña",
     "Remember Me": "Recuérdame",
+    "Log In": "Acceder",
     "Login": "Acceder",
     "Forgot Your Password?": "¿Olvidaste tu contraseña?",
     "Register": "Registro",
@@ -31,6 +32,15 @@
     "click here to request another": "pulsa aquí para que te enviemos otro",
     "All rights reserved.":  "Todos los derechos reservados.",
     "Dashboard": "Panel de control",
-    "You are logged in!": "Estás logueado"
+    "You are logged in!": "Estás logueado",
+    "Register a new membership": "Registrar una nueva cuenta",
+    "Full name": "Nombre completo",
+    "Email": "Correo electrónico",
+    "Retype password": "Repetir contraseña",
+    "I agree to the": "Estoy de acuerdo con los",
+    "terms": "términos",
+    "I already have a membership": "Ya tengo una cuenta",
+    "You forgot your password? Here you can easily retrieve a new password.": "¿Olvidaste tu contraseña? Aquí puedes recuperarla fácilmente.",
+    "Request new password": "Solicita una nueva contraseña"
 
 }
